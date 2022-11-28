@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Drunk Knight**
 
-- 🌱 I’m currently learning **React Native, Css styling**
+- 🌱 I’m currently learning **React Native, Css styling, WebSockets, graphql**
 
 - 💬 Ask me about **Nestjs, Spring, Sql, NoSql**
 
