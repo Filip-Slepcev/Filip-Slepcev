@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React Native, Css styling, WebSockets, graphql**
 
-- 💬 Ask me about **Nestjs, Spring, Sql, NoSql**
-
 - 📫 How to reach me **filipslepcev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
