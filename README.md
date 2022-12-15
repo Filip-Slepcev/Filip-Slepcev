@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fil</h1>
-<h3 align="center">I am a passionate backend developer from Canada, who is currently studying Computer Science at WLU</h3>
+<h3 align="center">I am a backend developer from Canada, who is currently studying Computer Science at WLU</h3>
 
 - 🔭 I’m currently working on **Drunk Knight**
 
