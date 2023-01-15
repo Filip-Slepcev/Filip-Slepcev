@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td>
-        <img alt="Filip's github stats" src="https://github-readme-stats.vercel.app/api?username=Filip-Slepcev&show_icons=true">
+        <img alt="Filip's github stats" src="https://github-readme-stats.vercel.app/api?username=Filip-Slepcev">
     </td>
     <td>
-        <img alt="Filip's github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-Slepcev&layout=compact">
+        <img alt="Filip's github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-Slepcev">
     </td>
   </tr>
 </table>
