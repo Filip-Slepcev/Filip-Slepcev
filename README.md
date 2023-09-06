@@ -3,9 +3,9 @@
 
 <h3 align="left">✨ About Me:</h3>
 
-- 🔭 I’m currently working on **Discord Clone**
+- 🔭 I’m currently working on **Music App**
 
-- 🌱 I’m currently learning **React Native, Sveltekit, WebSockets**
+- 🌱 I’m currently learning **React Native, Sveltekit, Redis Caching**
 
 - 📫 How to reach me **filipslepcev@gmail.com**
 
