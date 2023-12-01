@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Music App**
 
-- 🌱 I’m currently learning **React Native, Sveltekit, Redis Caching**
+- 🌱 I’m currently learning **NextJS, Sveltekit, Redis Caching**
 
 - 📫 How to reach me **filipslepcev@gmail.com**
 
