@@ -18,7 +18,6 @@
 <code><img style="width:30px;height:30px;" alt="Python" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img style="width:30px;height:30px;" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img style="width:30px;height:30px;" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img style="width:30px;height:30px;" alt="nestjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></code>
 <code><img style="width:30px;height:30px;" alt="bash" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
 <h3 align="left">📈 My Stats:</h3>
