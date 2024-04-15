@@ -3,7 +3,7 @@
 
 <h3 align="left">✨ About Me:</h3>
 
-- 🔭 I’m currently working on **Music App**
+- 🔭 I’m currently working on **Recordscratch**
 
 - 🌱 I’m currently learning **NextJS, Sveltekit, Redis Caching**
 
