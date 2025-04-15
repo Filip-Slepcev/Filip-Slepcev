@@ -3,9 +3,9 @@
 
 <h3 align="left">✨ About Me:</h3>
 
-- 🔭 I’m currently working on **Recordscratch**
+- 🔭 I’m currently working on **Recordscratch, Stride**
 
-- 🌱 I’m currently learning **NextJS, Sveltekit, Redis Caching**
+- 🌱 I’m currently learning **SwiftUI, Home Networking**
 
 - 📫 How to reach me **filipslepcev@gmail.com**
 
